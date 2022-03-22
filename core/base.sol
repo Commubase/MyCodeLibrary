@@ -1,3 +1,5 @@
+// refer to https://github.com/dariasdos/rarity/blob/main/core/base.sol
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.7;
 
